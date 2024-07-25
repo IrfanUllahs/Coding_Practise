@@ -87,9 +87,10 @@ const list = new linkList();
 // list.insertAtHead(3)
 // list.insertAtHead(8)
 list.insertAtEnd(2);
-list.insertAtEnd(3);
-list.insertAtEnd(8);
-list.insertAtEnd(10);
-list.deleteNode(27);
-// list.findValue(11)
+// list.insertAtEnd(3);
+// list.insertAtEnd(8);
+// list.insertAtEnd(10);
 list.print();
+list.deleteNode(2);
+list.print();
+// list.findValue(11)
