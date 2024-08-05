@@ -13,3 +13,4 @@ const irfan = () => {
   console.log(arr);
 };
 irfan();
+https://www.geeksforgeeks.org/c-program-cyclically-rotate-array-one/
