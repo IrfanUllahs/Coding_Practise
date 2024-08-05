@@ -8,7 +8,7 @@ const find = () => {
     accum = accum + arr[i];
     for (let j = i + 1; j < n; j++) {
       accum = accum + arr[j];
-      console.log(accum, arr[i], arr[j]);
+      // console.log(accum, arr[i], arr[j]);
       if (accum == sum) {
         i++;
         j++;
